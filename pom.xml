@@ -5,6 +5,8 @@
 	<artifactId>parsing</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>Parsing</name>
+<packaging>war</packaging>
+
 	<dependencies>
 		<dependency>
 			<groupId>junit</groupId>
